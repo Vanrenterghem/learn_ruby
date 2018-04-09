@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+Thibault Vanrenterghem et ROmain 
+
 ### Set up instructions
 
 1. Fork this repo
